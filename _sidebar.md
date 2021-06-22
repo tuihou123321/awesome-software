@@ -1,2 +1,2 @@
-- [关于本书](Readme.md)
+- [关于本书](/Readme.md)
 - [everything](docs/everything.md)
